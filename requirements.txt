@@ -1,0 +1,19 @@
+# Core Agent & LLM Framework
+langchain>=1.4.0
+langchain-core>=1.6.0
+langchain-groq>=1.1.0
+langgraph>=1.2.0
+groq>=0.37.0
+python-dotenv>=1.2.0
+
+# Web Crawling & Scraping
+playwright>=1.62.0
+beautifulsoup4>=4.15.0
+requests>=2.34.0
+
+# Data Processing & Document Generation
+pandas>=3.0.0
+reportlab>=5.0.0
+
+# Web UI Interface
+streamlit>=1.63.0

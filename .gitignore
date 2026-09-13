@@ -1,0 +1,33 @@
+# Environment & Secrets
+.env
+.env.*
+*.env
+
+# Python Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Generated Reports & Data Exports
+output/*
+!output/.gitkeep
+*.csv
+*.pdf
+
+# Operating System Artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
